@@ -2,7 +2,7 @@
 - 👀 I’m interested in building software 
 - 🌱 I’m currently learning web devlopment and DSA
 - 💞️ I’m looking to collaborate on Fullstack projects
-- 📫 Reach me through mr.sathvikkr1@gmail.com
+- 📫 Reach me through EmailID : mr.sathvikkr1@gmail.com || Visit My website : [htt](https://sathvikkr-portfolio.vercel.app/).
 - 😄 Pronouns: We welcome contributions and suggestions.
 - ⚡ Fun fact: Python is used by NASA.
 
